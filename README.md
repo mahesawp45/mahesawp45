@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mahesawp45/mahesawp45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on "Start Up Company"
+- 🌱 I’m currently learning "Myself"
+- 👯 I’m looking to collaborate on "Cute Project"
+- 🤔 I’m looking for help with "People who want me"
+- 💬 Ask me about "Things make me happy only"
+- 📫 How to reach me: "Be Nice to me"
+- 😄 Pronouns: "what/ever/idc"
+- ⚡ Fun fact: "i can breath while i'm suffering"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Tech Stack
   <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://saigontechnology.com/assets/media/Blog/flutter-what-is-it.webp" /></a>

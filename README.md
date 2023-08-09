@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on "Start Up Company"
 - 🌱 I’m currently learning "Myself"
 - 👯 I’m looking to collaborate on "Cute Project"
-- 🤔 I’m looking for help with "People prioritize me"
+- 🤔 I’m looking for help with "People who prioritize me"
 - 💬 Ask me about "Things make me happy only"
 - 📫 How to reach me: "Be Nice to me"
 - 😄 Pronouns: "what/ever/idc"

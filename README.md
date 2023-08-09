@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tech Stack
+  <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" /></a>
+  <a href="https://nuxt.com/"><img align="left" alt="NuxtJs" title="NuxtJs" width="21px" src="https://nuxt.com/assets/design-kit/logo/icon-green.png" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" /></a>
+  <br>
+  <br>
   
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/mahesawp45">

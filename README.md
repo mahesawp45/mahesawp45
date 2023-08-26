@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with "People who prioritize me"
 - 💬 Ask me about "Things make me happy only"
 - 📫 How to reach me: "Be Nice to me"
-- 😄 Pronouns: "call/me/by/your/name"
+- 😄 Pronouns: "haha/hihi"
 - ⚡ Fun fact: "i can breath while i'm suffering"
 
 

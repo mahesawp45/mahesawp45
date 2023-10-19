@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "Start Up Company"
-- 🌱 I’m currently learning "Myself"
-- 👯 I’m looking to collaborate on "Cute Project"
-- 🤔 I’m looking for help with "People who prioritize me"
-- 💬 Ask me about "Things make me happy only"
-- 📫 How to reach me: "Be Nice to me"
-- 😄 Pronouns: "haha/hihi"
-- ⚡ Fun fact: "i can breath while i'm suffering"
+I am Mahesa, I am a Software Developer at
+Start Up Software As A Service (SaaS), in between busy schedules, I also take the time to learn new things, especially other technologies such as React Js, Java Spring Boot and even Machine Learning
+
+### My Link
+<a href="https://www.linkedin.com/in/mahesawp/"><img align="left" alt="Linkedin" title="Linkedin" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 
 
 ### Tech Stack

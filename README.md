@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mahesa, I am a Software Developer and a Long Life Learner!
+I am Mahesa, I am a Software Developer!
 
 ### My Link
 <a href="https://www.linkedin.com/in/mahesawp/"><img align="left" alt="Linkedin" title="Linkedin" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>

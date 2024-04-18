@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Mahesa, I am a Software Developer at
-Start Up Software As A Service (SaaS), in between busy schedules, I also take the time to learn new things, especially other technologies such as React Js, Java Spring Boot and even Machine Learning
+I am Mahesa, I am a Software Developer and a Long Life Learner!
 
 ### My Link
 <a href="https://www.linkedin.com/in/mahesawp/"><img align="left" alt="Linkedin" title="Linkedin" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
